@@ -5,6 +5,7 @@ export default function AboutPage() {
     <PageContainer title="About This Project">
       <p className="mb-6 text-lg text-center text-gray-300">
         This application serves as a minimal template for rapid development.
+        test
       </p>
       <div className="flex flex-col items-center justify-center mt-6 space-y-5 text-center">
         <p className="max-w-lg text-md text-gray-400">
